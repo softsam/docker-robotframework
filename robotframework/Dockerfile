@@ -9,3 +9,7 @@ RUN apt-get -y update \
 
 RUN pip install robotframework==2.8.7
 RUN pip install robotframework-selenium2library==1.7.0
+
+RUN     mkdir /robot
+VOLUME  /robot
+WORKDIR /robot
