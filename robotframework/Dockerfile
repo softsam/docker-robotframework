@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Ludovic Meurillon <ludovic.meurillon@gmail.com>
+MAINTAINER Ludovic Meurillon <ludovic.meurillon@orange.com>
 
 RUN apt-get -y update \
     && apt-get install -y python python-pip \

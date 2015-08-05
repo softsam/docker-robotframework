@@ -1,5 +1,5 @@
-FROM ludomeurillon/robotframework:2.9
+FROM softsam/robotframework:2.9
 
-MAINTAINER Ludovic Meurillon <ludovic.meurillon@gmail.com>
+MAINTAINER Ludovic Meurillon <ludovic.meurillon@orange.com>
 
 ENTRYPOINT ["/usr/local/bin/pybot"]
