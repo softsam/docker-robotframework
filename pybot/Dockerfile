@@ -1,4 +1,4 @@
-FROM ludomeurillon/robotframework:2.8.7
+FROM ludomeurillon/robotframework:2.9
 
 MAINTAINER Ludovic Meurillon <ludovic.meurillon@gmail.com>
 
