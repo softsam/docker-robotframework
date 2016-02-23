@@ -1,4 +1,4 @@
-FROM softsam/robotframework:2.9
+FROM softsam/robotframework:latest
 
 MAINTAINER Ludovic Meurillon <ludovic.meurillon@orange.com>
 
