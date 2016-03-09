@@ -9,6 +9,7 @@ RUN apt-get -y update \
 
 RUN pip install robotframework==2.9
 RUN pip install robotframework-selenium2library==1.7.2
+RUN pip install robotframework-appiumlibrary==1.3.5
 RUN pip install robotframework-faker==3.0.0
 
 RUN     mkdir /robot
